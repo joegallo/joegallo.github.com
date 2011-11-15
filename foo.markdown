@@ -19,4 +19,6 @@ Murrsyville, PA 15668
 
 ## Code
 
-<script type="text/javascript" src="https://gist.github.com/c27f03d2ee6234298ec9.js"></script>
+
+
+<script src="http://gist.github.com/2059.js"></script>
