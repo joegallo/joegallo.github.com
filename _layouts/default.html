@@ -6,16 +6,26 @@
     <meta name="viewport" content="width=device-width,
                                    initial-scale=1">
     <title>{{ page.title }} | joegallo.org</title>
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="includes/main.css">
-    <link rel="stylesheet" href="includes/pygments.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="includes/main.css" type="text/css">
+    <link rel="stylesheet" href="includes/pygments.css" type="text/css">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,400italic,700,700italic" type="text/css">
+    <style type="text/css">
+      body {
+      font: 400 16px/24px 'Gentium Book Basic';
+      }
+    </style>
   </head>
   <body>
     <div class="container">
-      <div class="page-header">
-        <h1>{{ page.title }}</h1>
+      <div class="row">
+        <div class="col-xs-5">
+          <div class="page-header">
+            <h1>{{ page.title }}</h1>
+          </div>
+          {{ content }}
+        </div>
       </div>
-      {{ content }}
     </div>
     
     <!-- http://getbootstrap.com/examples/sticky-footer/ -->

@@ -3,6 +3,8 @@ title: Index
 layout: default
 ---
 
+<p class="lead">In which I figure out how to blog...</p>
+
 Remember, raptors run at 10 m/s, and they do not know fear.
 
 A wild test appears!
@@ -10,6 +12,9 @@ A wild test appears!
 ```clojure
 (defn foo [x]
   (println "Whoa" x))
+
+;; we can go to 55 columns here without wrapping
+;; 123456789 123456789 123456789 123456789 123456789 12
 ```
 
 Let's add some more code here, and let's add a code span `(like
@@ -28,6 +33,40 @@ id risus consectetur, euismod nisi vel, tempor sem. Vivamus nec
 porttitor augue. Sed diam dui, scelerisque id libero a, tristique
 tristique metus. Quisque consequat sodales euismod. Curabitur sapien
 libero, sollicitudin elementum congue ac, pretium vel massa. Maecenas
+fermentum tempus felis vitae malesuada. Morbi non risus dapibus,
+lobortis arcu ut, ornare leo.
+
+> Sed diam dui, scelerisque id libero a, tristique tristique metus.
+> Quisque consequat sodales euismod. Curabitur sapien libero,
+> sollicitudin elementum congue ac, pretium vel massa. Maecenas
+> fermentum tempus felis vitae malesuada. Morbi non risus dapibus,
+> lobortis arcu ut, ornare leo.
+>
+> <footer>Michael Scott, 'The Office'</footer>
+
+Sed diam dui, scelerisque id libero a, tristique tristique metus.
+Quisque consequat sodales euismod. Curabitur sapien libero,
+sollicitudin elementum congue ac, pretium vel massa. Maecenas
+fermentum tempus felis vitae malesuada. Morbi non risus dapibus,
+lobortis arcu ut, ornare leo.
+
+1. Apple
+2. Orange
+3. Banana
+
+Sed diam dui, scelerisque id libero a, tristique tristique metus.
+Quisque consequat sodales euismod. Curabitur sapien libero,
+sollicitudin elementum congue ac, pretium vel massa. Maecenas
+fermentum tempus felis vitae malesuada. Morbi non risus dapibus,
+lobortis arcu ut, ornare leo.
+
+* Apple
+* Orange
+* Banana
+
+Sed diam dui, scelerisque id libero a, tristique tristique metus.
+Quisque consequat sodales euismod. Curabitur sapien libero,
+sollicitudin elementum congue ac, pretium vel massa. Maecenas
 fermentum tempus felis vitae malesuada. Morbi non risus dapibus,
 lobortis arcu ut, ornare leo.
 
