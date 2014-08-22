@@ -21,7 +21,7 @@ newspapers have become little more than a blue-bag delivery service,
 with a horoscope and enough local sports inside to get people to open
 the bag.
 
-<script src="https://gist.github.com/joegallo/1502b1315df2c01cb7ec.js"></script>
+<script src="https://gist.github.com/joegallo/926956753788b99901ee.js"></script>
 
 Those advertisers already have one foot out the door, having abandoned
 the idea that ads have to be printed inside the paper to reach their
