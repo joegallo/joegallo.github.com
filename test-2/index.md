@@ -3,6 +3,36 @@ title: Test2
 layout: default
 ---
 
+Print ads are essential revenue for most papers. Retail ads are
+essential for print. Sunday is essential for retail. Inserts are
+essential for Sundays. The base of that entire inverted pyramid is
+being supported by the marketing departments of no more than a couple
+dozen national advertisers.
+
+<script src="https://gist.github.com/scoop/7a7389b300e9437884cf.js"></script>
+
+Those advertisers already have one foot out the door, having abandoned
+the idea that ads have to be printed inside the paper to reach their
+audience. CVS and Best Buy have so little connection to the papers
+they ride along with that they don’t even bother printing the
+addresses of their local outlets anymore. (You can always find that
+information online.) From the advertiser’s point of view, the nation’s
+newspapers have become little more than a blue-bag delivery service,
+with a horoscope and enough local sports inside to get people to open
+the bag.
+
+<script src="https://gist.github.com/joegallo/1502b1315df2c01cb7ec.js"></script>
+
+Those advertisers already have one foot out the door, having abandoned
+the idea that ads have to be printed inside the paper to reach their
+audience. CVS and Best Buy have so little connection to the papers
+they ride along with that they don’t even bother printing the
+addresses of their local outlets anymore. (You can always find that
+information online.) From the advertiser’s point of view, the nation’s
+newspapers have become little more than a blue-bag delivery service,
+with a horoscope and enough local sports inside to get people to open
+the bag.
+
 <p class="lead">In which I figure out how to blog...</p>
 
 Remember, raptors run at 10 m/s, and they do not know fear.
