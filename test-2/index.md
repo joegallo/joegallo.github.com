@@ -13,8 +13,8 @@ A wild test appears!
 (defn foo [x]
   (println "Whoa" x))
 
-;; we can go to 55 columns here without wrapping
-;; 123456789 123456789 123456789 123456789 123456789 12
+;; we can go to 68 columns here without wrapping
+;; 123456789 123456789 123456789 123456789 123456789 123456789 12345
 ```
 
 Let's add some more code here, and let's add a code span `(like
